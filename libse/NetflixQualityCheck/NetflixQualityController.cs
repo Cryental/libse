@@ -220,7 +220,6 @@ namespace Nikse.SubtitleEdit.Core.NetflixQualityCheck
             {
                 new NetflixCheckTimedTextFrameRate(),
                 new NetflixCheckDialogHyphenSpace(),
-                new NetflixCheckGlyph(),
                 new NetflixCheckMaxCps(),
                 new NetflixCheckMaxLineLength(),
                 new NetflixCheckMaxDuration(),
